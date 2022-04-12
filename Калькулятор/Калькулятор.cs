@@ -8,7 +8,7 @@ namespace Калькулятор
 {
     internal class Калькулятор
     {
-        static void Main(string[] args)
+        static void Main()
         {
             while (true)
             {
