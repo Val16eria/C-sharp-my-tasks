@@ -8,7 +8,7 @@ namespace Ввод_и_вывод_данных
 {
     internal class Ввод_и_вывод_данных
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.Write("Введите любое число:  ");
             int num = Convert.ToInt32(Console.ReadLine());
