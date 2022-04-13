@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Сравнение двух
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Калькулятор", "Калькулятор\Калькулятор.csproj", "{3E8ED7EF-ED1C-4A0E-A1A5-40359A3E49C0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Задачи по C-sharp", "Задачи по C-sharp", "{C2EAB5EF-65EE-49D9-9E17-DC5EB531A23A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07E07040-5EC6-4431-BF8F-050128589643} = {C2EAB5EF-65EE-49D9-9E17-DC5EB531A23A}
+		{8422C6EC-ED76-47EB-AE3E-F24CAFD11E7F} = {C2EAB5EF-65EE-49D9-9E17-DC5EB531A23A}
+		{1F2BD33A-20DC-4110-A227-A8BEBEBF2BA9} = {C2EAB5EF-65EE-49D9-9E17-DC5EB531A23A}
+		{3E8ED7EF-ED1C-4A0E-A1A5-40359A3E49C0} = {C2EAB5EF-65EE-49D9-9E17-DC5EB531A23A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF9E4125-2E12-4043-BEFA-7FC9033951E4}
