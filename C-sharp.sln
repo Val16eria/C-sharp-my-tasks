@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Калькулятор", "�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Задачи по C-sharp", "Задачи по C-sharp", "{A7F829A2-2988-4E15-AC47-4A47BFD001F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "Задачи по C-sharp\ConsoleApp1\ConsoleApp1.csproj", "{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{3E8ED7EF-ED1C-4A0E-A1A5-40359A3E49C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E8ED7EF-ED1C-4A0E-A1A5-40359A3E49C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E8ED7EF-ED1C-4A0E-A1A5-40359A3E49C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{8422C6EC-ED76-47EB-AE3E-F24CAFD11E7F} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
 		{1F2BD33A-20DC-4110-A227-A8BEBEBF2BA9} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
 		{3E8ED7EF-ED1C-4A0E-A1A5-40359A3E49C0} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
+		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF9E4125-2E12-4043-BEFA-7FC9033951E4}
