@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Задачи по C-sharp", "Задачи по C-sharp", "{A7F829A2-2988-4E15-AC47-4A47BFD001F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Знакомство с ООП", "Задачи по C-sharp\ConsoleApp1\Знакомство с ООП.csproj", "{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Задачи по C-sharp\Hello_World\Hello World.csproj", "{DE22EB7F-90C7-4BCD-941D-53BF94C5C9AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ввод и вывод данных", "Задачи по C-sharp\Ввод и вывод данных\Ввод и вывод данных.csproj", "{17116D16-03F1-4788-85DC-E5EB1551CB19}"
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DE22EB7F-90C7-4BCD-941D-53BF94C5C9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DE22EB7F-90C7-4BCD-941D-53BF94C5C9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE22EB7F-90C7-4BCD-941D-53BF94C5C9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -46,7 +40,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{C5E3FB49-9BDB-4446-B38F-A0A2EE672140} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
 		{DE22EB7F-90C7-4BCD-941D-53BF94C5C9AB} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
 		{17116D16-03F1-4788-85DC-E5EB1551CB19} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
 		{FDF5A4C2-30C5-4961-A14D-33CF91480996} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}

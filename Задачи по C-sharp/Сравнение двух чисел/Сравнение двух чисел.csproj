@@ -43,11 +43,41 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Знакомство с ООП\Doctor.cs" />
+    <Compile Include="Знакомство с ООП\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="Знакомство с ООП\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="Знакомство с ООП\Person.cs" />
+    <Compile Include="Знакомство с ООП\Program.cs" />
+    <Compile Include="Знакомство с ООП\Properties\AssemblyInfo.cs" />
     <Compile Include="Сравнение.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Знакомство с ООП\.vs\ProjectSettings.json" />
+    <None Include="Знакомство с ООП\.vs\slnx.sqlite" />
+    <None Include="Знакомство с ООП\.vs\VSWorkspaceState.json" />
+    <None Include="Знакомство с ООП\.vs\Знакомство с ООП\project-colors.json" />
+    <None Include="Знакомство с ООП\.vs\Знакомство с ООП\v17\.suo" />
+    <None Include="Знакомство с ООП\App.config" />
+    <None Include="Знакомство с ООП\bin\Debug\ConsoleApp1.exe.config" />
+    <None Include="Знакомство с ООП\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache" />
+    <None Include="Знакомство с ООП\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Знакомство с ООП\obj\Debug\Знакомство с ООП.csproj.AssemblyReference.cache" />
+    <None Include="Знакомство с ООП\obj\Debug\Знакомство с ООП.csproj.CoreCompileInputs.cache" />
+    <None Include="Знакомство с ООП\obj\Debug\Знакомство с ООП.csproj.SuggestedBindingRedirects.cache" />
+    <None Include="Знакомство с ООП\Знакомство с ООП.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Знакомство с ООП\bin\Debug\ConsoleApp1.exe" />
+    <Content Include="Знакомство с ООП\bin\Debug\ConsoleApp1.pdb" />
+    <Content Include="Знакомство с ООП\obj\Debug\ConsoleApp1.exe" />
+    <Content Include="Знакомство с ООП\obj\Debug\ConsoleApp1.pdb" />
+    <Content Include="Знакомство с ООП\obj\Debug\Знакомство с ООП.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Знакомство с ООП\bin\Release\" />
+    <Folder Include="Знакомство с ООП\obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
