@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Калькулятор", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сравнение двух чисел", "Задачи по C-sharp\Сравнение двух чисел\Сравнение двух чисел.csproj", "{E2DFAEA9-B293-4F77-8986-082B74A653A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ООП", "ООП", "{67E796CD-44E5-4AE7-BD2B-1C1BFD3D1B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
