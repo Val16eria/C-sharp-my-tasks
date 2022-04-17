@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Калькулятор", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сравнение двух чисел", "Задачи по C-sharp\Сравнение двух чисел\Сравнение двух чисел.csproj", "{E2DFAEA9-B293-4F77-8986-082B74A653A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Знакомство с ООП", "Задачи по C-sharp\ООП\Знакомство с ООП\Знакомство с ООП.csproj", "{7B8D1AB8-C9E3-40A1-AF0D-84BD39098730}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ООП", "ООП", "{DFA34A74-FB38-4A1E-863C-7BE72BE35D2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,10 @@ Global
 		{E2DFAEA9-B293-4F77-8986-082B74A653A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2DFAEA9-B293-4F77-8986-082B74A653A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2DFAEA9-B293-4F77-8986-082B74A653A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8D1AB8-C9E3-40A1-AF0D-84BD39098730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8D1AB8-C9E3-40A1-AF0D-84BD39098730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8D1AB8-C9E3-40A1-AF0D-84BD39098730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8D1AB8-C9E3-40A1-AF0D-84BD39098730}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +52,7 @@ Global
 		{17116D16-03F1-4788-85DC-E5EB1551CB19} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
 		{FDF5A4C2-30C5-4961-A14D-33CF91480996} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
 		{E2DFAEA9-B293-4F77-8986-082B74A653A3} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
+		{7B8D1AB8-C9E3-40A1-AF0D-84BD39098730} = {DFA34A74-FB38-4A1E-863C-7BE72BE35D2C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF9E4125-2E12-4043-BEFA-7FC9033951E4}
