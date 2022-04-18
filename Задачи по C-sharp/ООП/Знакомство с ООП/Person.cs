@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Знакомство_с_ООП
 {
-    public class Person
+    internal class Person
     {
         public string SecondName { get; set; }
 
