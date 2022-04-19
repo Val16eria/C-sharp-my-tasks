@@ -56,7 +56,7 @@ namespace FitnessAppBL.Model
                 throw new ArgumentNullException("Имя пользователя не может быть пустым или null.", nameof(name));
             }
 
-            if (Gender == null)
+            if (gender == null)
             {
                 throw new ArgumentNullException("Пол не может быть null.", nameof(gender));
             }
