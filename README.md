@@ -1,2 +1,2 @@
 # Разбираю синтаксис C# и изучаю .NET
-https://ne-kurim.ru/forum/attachments/sleepy-yawn-gif.1540834/
+![гарфилдл](https://user-images.githubusercontent.com/85391921/164333640-24e08afb-5ef4-4ec9-9fc0-685f6501dc1c.gif)
