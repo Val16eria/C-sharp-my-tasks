@@ -15,22 +15,33 @@ namespace FitnessAppCMD
             Console.WriteLine("Вас приветствует FitnessApp");
 
             Console.WriteLine("Введите имя пользователя");
-            var name = Console.ReadLine();
+            var name = Console.ReadLine(); 
 
-            Console.WriteLine("Введите пол");
-            var gender = Console.ReadLine();
+            var userController = new UserController(name);
+            if(userController.IsNewUser)
+            {
+                Console.WriteLine("Введите Пол: ");
+                var gender = Console.ReadLine();
+                DateTime birthDate;
 
-            Console.WriteLine("Введите дату рождения");
-            var birthdate = DateTime.Parse(Console.ReadLine()); // TODO: переписать
+                while(true)
+                {
+                    Console.WriteLine("Введите дату рождения (dd.MM.yyyy): ");
+                    if (DateTime.TryParse(Console.ReadLine(), out birthDate))
+                    {
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Неверный формат даты рождения");
+                    }
+                }
 
-            Console.WriteLine("Введите вес");
-            var weight = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Введите рост");
-            var height = double.Parse(Console.ReadLine());
-
-            var userController = new UserController(name, gender, birthdate, weight, height);
-            userController.Save();
+                userController.SetNewUserData();
+            }
+            Console.WriteLine(userController.CurrentUser);
+            Console.ReadLine();
 
         }
     }
