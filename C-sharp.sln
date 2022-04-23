@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ООП", "ООП", "{DFA34A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Методы", "Задачи по C-sharp\ООП\Методы\Методы.csproj", "{D4489305-75CF-46AF-8E9B-E5A7C7E51BFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перегрузка опреаторов", "Задачи по C-sharp\ООП\Перегрузка опреаторов\Перегрузка опреаторов.csproj", "{16BD65B2-5719-499C-AC90-A194C55EAC0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{D4489305-75CF-46AF-8E9B-E5A7C7E51BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4489305-75CF-46AF-8E9B-E5A7C7E51BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4489305-75CF-46AF-8E9B-E5A7C7E51BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BD65B2-5719-499C-AC90-A194C55EAC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BD65B2-5719-499C-AC90-A194C55EAC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BD65B2-5719-499C-AC90-A194C55EAC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BD65B2-5719-499C-AC90-A194C55EAC0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{E2DFAEA9-B293-4F77-8986-082B74A653A3} = {A7F829A2-2988-4E15-AC47-4A47BFD001F1}
 		{7B8D1AB8-C9E3-40A1-AF0D-84BD39098730} = {DFA34A74-FB38-4A1E-863C-7BE72BE35D2C}
 		{D4489305-75CF-46AF-8E9B-E5A7C7E51BFF} = {DFA34A74-FB38-4A1E-863C-7BE72BE35D2C}
+		{16BD65B2-5719-499C-AC90-A194C55EAC0F} = {DFA34A74-FB38-4A1E-863C-7BE72BE35D2C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF9E4125-2E12-4043-BEFA-7FC9033951E4}
