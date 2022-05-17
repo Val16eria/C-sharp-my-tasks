@@ -17,6 +17,12 @@ namespace FirstApp
 
         protected override void OnAppearing()
         {
+            checkBox1.IsChecked = true;
+        }
+
+        /*
+        protected override void OnAppearing()
+        {
             StackLayout layout = new StackLayout();
 
             Label label1 = new Label();
@@ -64,5 +70,6 @@ namespace FirstApp
 
             Content = layout;
         }
+        */
     }
 }
